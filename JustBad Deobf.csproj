@@ -31,6 +31,147 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="1v1">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\1v1.dll</HintPath>
+    </Reference>
+    <Reference Include="1v1.DevSettings">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\1v1.DevSettings.dll</HintPath>
+    </Reference>
+    <Reference Include="AnyAsync">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\AnyAsync.dll</HintPath>
+    </Reference>
+    <Reference Include="AppsFlyer">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\AppsFlyer.dll</HintPath>
+    </Reference>
+    <Reference Include="Assembly-CSharp">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Assembly-CSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Assembly-CSharp-firstpass">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Assembly-CSharp-firstpass.dll</HintPath>
+    </Reference>
+    <Reference Include="AssetsService">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\AssetsService.dll</HintPath>
+    </Reference>
+    <Reference Include="AssetsService.Bootstrapping.Explicit">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\AssetsService.Bootstrapping.Explicit.dll</HintPath>
+    </Reference>
+    <Reference Include="AutoPool">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\AutoPool.dll</HintPath>
+    </Reference>
+    <Reference Include="BakeryRuntimeAssembly">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\BakeryRuntimeAssembly.dll</HintPath>
+    </Reference>
+    <Reference Include="Beedbyte">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Beedbyte.dll</HintPath>
+    </Reference>
+    <Reference Include="BidirHorizontalLayoutGroup-Runtime">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\BidirHorizontalLayoutGroup-Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="BugsnagUnity.Windows">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\BugsnagUnity.Windows.dll</HintPath>
+    </Reference>
+    <Reference Include="ClientLibraries.Common">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\ClientLibraries.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Coffee.UIParticle">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Coffee.UIParticle.dll</HintPath>
+    </Reference>
+    <Reference Include="com.rlabrecque.steamworks.net">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\com.rlabrecque.steamworks.net.dll</HintPath>
+    </Reference>
+    <Reference Include="DebugDrawingExtension">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\DebugDrawingExtension.dll</HintPath>
+    </Reference>
+    <Reference Include="Encrypt">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Encrypt.dll</HintPath>
+    </Reference>
+    <Reference Include="EnhancedScroller_asmdef">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\EnhancedScroller_asmdef.dll</HintPath>
+    </Reference>
+    <Reference Include="EventStream">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\EventStream.dll</HintPath>
+    </Reference>
+    <Reference Include="EventStream.Api">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\EventStream.Api.dll</HintPath>
+    </Reference>
+    <Reference Include="EventStream.ConfigurationParser">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\EventStream.ConfigurationParser.dll</HintPath>
+    </Reference>
+    <Reference Include="Examples">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Examples.dll</HintPath>
+    </Reference>
+    <Reference Include="Facebook.Unity">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Facebook.Unity.dll</HintPath>
+    </Reference>
+    <Reference Include="Facebook.Unity.Settings">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Facebook.Unity.Settings.dll</HintPath>
+    </Reference>
+    <Reference Include="Firebase.App">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Firebase.App.dll</HintPath>
+    </Reference>
+    <Reference Include="Firebase.Crashlytics">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Firebase.Crashlytics.dll</HintPath>
+    </Reference>
+    <Reference Include="Firebase.Platform">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Firebase.Platform.dll</HintPath>
+    </Reference>
+    <Reference Include="GooglePlayGames">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\GooglePlayGames.dll</HintPath>
+    </Reference>
+    <Reference Include="IronSource">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\IronSource.dll</HintPath>
+    </Reference>
+    <Reference Include="Lofelt.NiceVibrations">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Lofelt.NiceVibrations.dll</HintPath>
+    </Reference>
+    <Reference Include="Lol.OneVsOne.Helpers">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Lol.OneVsOne.Helpers.dll</HintPath>
+    </Reference>
+    <Reference Include="MAScripts">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\MAScripts.dll</HintPath>
+    </Reference>
+    <Reference Include="Messaging">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Messaging.dll</HintPath>
+    </Reference>
+    <Reference Include="Mono.Security">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Mono.Security.dll</HintPath>
+    </Reference>
+    <Reference Include="NativeShare.Runtime">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\NativeShare.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Nucleus">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Nucleus.dll</HintPath>
+    </Reference>
+    <Reference Include="Nucleus.Api">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Nucleus.Api.dll</HintPath>
+    </Reference>
+    <Reference Include="Nucleus.Channels">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Nucleus.Channels.dll</HintPath>
+    </Reference>
+    <Reference Include="Nucleus.Compression">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Nucleus.Compression.dll</HintPath>
+    </Reference>
+    <Reference Include="Nucleus.Logging">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Nucleus.Logging.dll</HintPath>
+    </Reference>
+    <Reference Include="Nucleus.Protocols.Stomp">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Nucleus.Protocols.Stomp.dll</HintPath>
+    </Reference>
+    <Reference Include="Nucleus.Utils">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Nucleus.Utils.dll</HintPath>
+    </Reference>
+    <Reference Include="Nucleus.WebSockets">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Nucleus.WebSockets.dll</HintPath>
+    </Reference>
+    <Reference Include="Nucleus.WebSockets.ClientWebSocketCustom">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Nucleus.WebSockets.ClientWebSocketCustom.dll</HintPath>
+    </Reference>
+    <Reference Include="Nucleus.WebSockets.Connectors.Standard">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Nucleus.WebSockets.Connectors.Standard.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -267,10 +408,21 @@
     <Reference Include="ZFBrowser">
       <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\ZFBrowser.dll</HintPath>
     </Reference>
+    <Reference Include="_Toolset">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\_Toolset.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AimbotStuff.cs" />
+    <Compile Include="CombatCheats.cs" />
+    <Compile Include="FieldStuff.cs" />
     <Compile Include="Loader.cs" />
+    <Compile Include="Menu.cs" />
+    <Compile Include="MiscCheats.cs" />
+    <Compile Include="MovementCheats.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Render.cs" />
+    <Compile Include="RenderCheats.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
