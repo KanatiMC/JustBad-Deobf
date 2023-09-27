@@ -16,8 +16,7 @@ namespace JustBad
     {
         public void Start()
         {
-            base.StartCoroutine(FastUpdates());
-            base.StartCoroutine(SlowUpdates());
+            
         }
         private static void smethod_0(TextWriter textWriter_0)
         {
@@ -85,15 +84,7 @@ namespace JustBad
             }
         }
 
-        public IEnumerator FastUpdates()
-        {
-            return null;
-        }
-
-        public IEnumerator SlowUpdates()
-        {
-            return null;
-        }
+        
         public void CreateCircleOfBuildings(int int_1, float float_0)
         {
             offset += 2f;

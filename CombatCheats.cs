@@ -12,7 +12,6 @@ namespace JustBad
     {
         public void Start()
         {
-            base.StartCoroutine(this.method_0());
         }
 
         // Token: 0x06000029 RID: 41 RVA: 0x0000229B File Offset: 0x0000049B

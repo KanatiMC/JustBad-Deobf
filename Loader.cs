@@ -14,12 +14,21 @@ namespace JustBad
         {
             Loader._loadObject = new GameObject();
             Loader._loadObject.AddComponent<Menu>();
-            Loader._loadObject.AddComponent<AimbotStuff>();
+            Loader._loadObject.AddComponent<RenderCheats>();
             Loader._loadObject.AddComponent<MovementCheats>();
             Loader._loadObject.AddComponent<MiscCheats>();
             Loader._loadObject.AddComponent<CombatCheats>();
-            Loader._loadObject.AddComponent<RenderCheats>();
+            Loader._loadObject.AddComponent<AimbotStuff>();
             UnityEngine.Object.DontDestroyOnLoad(Loader._loadObject);
+
+            /*Loader._loadObject = new GameObject();
+			Loader._loadObject.AddComponent<Menu>();
+			Loader._loadObject.AddComponent<Class2>();
+			Loader._loadObject.AddComponent<MovementCheats>();
+			Loader._loadObject.AddComponent<MiscCheats>();
+			Loader._loadObject.AddComponent<CombatCheats>();
+			Loader._loadObject.AddComponent<Class1>();
+			Object.DontDestroyOnLoad(Loader._loadObject);*/
         }
 
         // Token: 0x06000068 RID: 104 RVA: 0x0000A614 File Offset: 0x00008814

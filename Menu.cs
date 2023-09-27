@@ -13,8 +13,6 @@ namespace JustBad
     {
         private void Awake()
         {
-            base.StartCoroutine(UpdateRegionInfo());
-            base.StartCoroutine(UpdateLobbyPlayers());
             rect_0 = new Rect(vector2_0.x + 100f, vector2_0.y + 100f, float_0, float_1);
             rect_1 = new Rect(rect_0.x, rect_0.y - rect_0.height / 10f, rect_0.width, 70f);
             int_1 = 0;
