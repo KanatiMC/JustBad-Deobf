@@ -172,7 +172,263 @@
     <Reference Include="Nucleus.WebSockets.Connectors.Standard">
       <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Nucleus.WebSockets.Connectors.Standard.dll</HintPath>
     </Reference>
+    <Reference Include="OmniSARTechnologies">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\OmniSARTechnologies.dll</HintPath>
+    </Reference>
+    <Reference Include="PathCreator">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\PathCreator.dll</HintPath>
+    </Reference>
+    <Reference Include="PerfectCulling">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\PerfectCulling.dll</HintPath>
+    </Reference>
+    <Reference Include="Photon3Unity3D">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Photon3Unity3D.dll</HintPath>
+    </Reference>
+    <Reference Include="PhotonChat">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\PhotonChat.dll</HintPath>
+    </Reference>
+    <Reference Include="PhotonRealtime">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\PhotonRealtime.dll</HintPath>
+    </Reference>
+    <Reference Include="PhotonSerializer.Runtime">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\PhotonSerializer.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="PhotonUnityNetworking">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\PhotonUnityNetworking.dll</HintPath>
+    </Reference>
+    <Reference Include="PhotonUnityNetworking.Utilities">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\PhotonUnityNetworking.Utilities.dll</HintPath>
+    </Reference>
+    <Reference Include="PhotonWebSocket">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\PhotonWebSocket.dll</HintPath>
+    </Reference>
+    <Reference Include="Playtika.Http">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Playtika.Http.dll</HintPath>
+    </Reference>
+    <Reference Include="Playtika.Http.Unity.Uwr">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Playtika.Http.Unity.Uwr.dll</HintPath>
+    </Reference>
+    <Reference Include="Playtika.IoC">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Playtika.IoC.dll</HintPath>
+    </Reference>
+    <Reference Include="Playtika.Serialization">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Playtika.Serialization.dll</HintPath>
+    </Reference>
+    <Reference Include="Playtika.Unity.AmazonSns">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Playtika.Unity.AmazonSns.dll</HintPath>
+    </Reference>
+    <Reference Include="Playtika.Unity.AmazonSns.API">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Playtika.Unity.AmazonSns.API.dll</HintPath>
+    </Reference>
+    <Reference Include="Playtika.Unity.AmazonSns.Unity">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Playtika.Unity.AmazonSns.Unity.dll</HintPath>
+    </Reference>
+    <Reference Include="Playtika.Unity.AmazonSnsEvents">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Playtika.Unity.AmazonSnsEvents.dll</HintPath>
+    </Reference>
+    <Reference Include="Playtika.Unity.Analytics">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Playtika.Unity.Analytics.dll</HintPath>
+    </Reference>
+    <Reference Include="Playtika.Unity.Assets">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Playtika.Unity.Assets.dll</HintPath>
+    </Reference>
+    <Reference Include="Playtika.Unity.Common">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Playtika.Unity.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Playtika.Unity.Common.PsfLight">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Playtika.Unity.Common.PsfLight.dll</HintPath>
+    </Reference>
+    <Reference Include="Playtika.Unity.Configuration">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Playtika.Unity.Configuration.dll</HintPath>
+    </Reference>
+    <Reference Include="Playtika.Unity.Dev">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Playtika.Unity.Dev.dll</HintPath>
+    </Reference>
+    <Reference Include="Playtika.Unity.DeviceInfo">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Playtika.Unity.DeviceInfo.dll</HintPath>
+    </Reference>
+    <Reference Include="Playtika.Unity.Disposables">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Playtika.Unity.Disposables.dll</HintPath>
+    </Reference>
+    <Reference Include="Playtika.Unity.EventRegistry">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Playtika.Unity.EventRegistry.dll</HintPath>
+    </Reference>
+    <Reference Include="Playtika.Unity.EventStream.PsfLight">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Playtika.Unity.EventStream.PsfLight.dll</HintPath>
+    </Reference>
+    <Reference Include="Playtika.Unity.Http.PsfLight">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Playtika.Unity.Http.PsfLight.dll</HintPath>
+    </Reference>
+    <Reference Include="Playtika.Unity.Identity">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Playtika.Unity.Identity.dll</HintPath>
+    </Reference>
+    <Reference Include="Playtika.Unity.Identity.PsfLight">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Playtika.Unity.Identity.PsfLight.dll</HintPath>
+    </Reference>
+    <Reference Include="Playtika.Unity.IonicZlib">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Playtika.Unity.IonicZlib.dll</HintPath>
+    </Reference>
+    <Reference Include="Playtika.Unity.LocationRegistry">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Playtika.Unity.LocationRegistry.dll</HintPath>
+    </Reference>
+    <Reference Include="Playtika.Unity.Logger">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Playtika.Unity.Logger.dll</HintPath>
+    </Reference>
+    <Reference Include="Playtika.Unity.Logger.Ces">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Playtika.Unity.Logger.Ces.dll</HintPath>
+    </Reference>
+    <Reference Include="Playtika.Unity.Messaging.PsfLight">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Playtika.Unity.Messaging.PsfLight.dll</HintPath>
+    </Reference>
+    <Reference Include="Playtika.Unity.Metronome.PsfLight">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Playtika.Unity.Metronome.PsfLight.dll</HintPath>
+    </Reference>
+    <Reference Include="Playtika.Unity.Notifications">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Playtika.Unity.Notifications.dll</HintPath>
+    </Reference>
+    <Reference Include="Playtika.Unity.Notifications.PsfLight">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Playtika.Unity.Notifications.PsfLight.dll</HintPath>
+    </Reference>
+    <Reference Include="Playtika.Unity.Popup.V2">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Playtika.Unity.Popup.V2.dll</HintPath>
+    </Reference>
+    <Reference Include="Playtika.Unity.Serialization.PsfLight">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Playtika.Unity.Serialization.PsfLight.dll</HintPath>
+    </Reference>
+    <Reference Include="Playtika.Unity.Storage">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Playtika.Unity.Storage.dll</HintPath>
+    </Reference>
+    <Reference Include="Playtika.Unity.TheBox.Common">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Playtika.Unity.TheBox.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Playtika.Unity.TheBox.Features.Common">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Playtika.Unity.TheBox.Features.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Playtika.Unity.TheBox.Features.Edm">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Playtika.Unity.TheBox.Features.Edm.dll</HintPath>
+    </Reference>
+    <Reference Include="Playtika.Unity.TheBox.Features.EventRegistry">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Playtika.Unity.TheBox.Features.EventRegistry.dll</HintPath>
+    </Reference>
+    <Reference Include="Playtika.Unity.TheBox.Features.Identity">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Playtika.Unity.TheBox.Features.Identity.dll</HintPath>
+    </Reference>
+    <Reference Include="Playtika.Unity.TheBox.Features.Notifications">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Playtika.Unity.TheBox.Features.Notifications.dll</HintPath>
+    </Reference>
+    <Reference Include="Playtika.Unity.TheBox.Features.Popup.V2">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Playtika.Unity.TheBox.Features.Popup.V2.dll</HintPath>
+    </Reference>
+    <Reference Include="Playtika.Unity.TheBox.Runtime">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Playtika.Unity.TheBox.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Playtika.Unity.Tools.Common">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Playtika.Unity.Tools.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="PolygonArsenal">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\PolygonArsenal.dll</HintPath>
+    </Reference>
+    <Reference Include="Psf.Analytics">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Psf.Analytics.dll</HintPath>
+    </Reference>
+    <Reference Include="Psf.Api.Common">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Psf.Api.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Psf.Bonuses">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Psf.Bonuses.dll</HintPath>
+    </Reference>
+    <Reference Include="PSF.EventStream">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\PSF.EventStream.dll</HintPath>
+    </Reference>
+    <Reference Include="PSF.EventStream.Unity">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\PSF.EventStream.Unity.dll</HintPath>
+    </Reference>
+    <Reference Include="Psf.FileSystem">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Psf.FileSystem.dll</HintPath>
+    </Reference>
+    <Reference Include="Psf.FileSystem.Abstractions">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Psf.FileSystem.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Psf.FileSystem.Unity">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Psf.FileSystem.Unity.dll</HintPath>
+    </Reference>
+    <Reference Include="Psf.InApps">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Psf.InApps.dll</HintPath>
+    </Reference>
+    <Reference Include="Psf.MessagingAdapter">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Psf.MessagingAdapter.dll</HintPath>
+    </Reference>
+    <Reference Include="Psf.MessagingAdapter.Abstraction">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Psf.MessagingAdapter.Abstraction.dll</HintPath>
+    </Reference>
+    <Reference Include="Psf.Metronome">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Psf.Metronome.dll</HintPath>
+    </Reference>
+    <Reference Include="Psf.Metronome.Abstractions">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Psf.Metronome.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Psf.Popups">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Psf.Popups.dll</HintPath>
+    </Reference>
+    <Reference Include="Psf.Threading">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Psf.Threading.dll</HintPath>
+    </Reference>
+    <Reference Include="Psf.WebSockets">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Psf.WebSockets.dll</HintPath>
+    </Reference>
+    <Reference Include="Psf.XlogCesTarget">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Psf.XlogCesTarget.dll</HintPath>
+    </Reference>
+    <Reference Include="PsfLight.Newtonsoft.Json.Aot">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\PsfLight.Newtonsoft.Json.Aot.dll</HintPath>
+    </Reference>
+    <Reference Include="Purchasing.Common">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Purchasing.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="RestClient">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\RestClient.dll</HintPath>
+    </Reference>
+    <Reference Include="Rewired">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Rewired.dll</HintPath>
+    </Reference>
+    <Reference Include="Rewired_Core">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Rewired_Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Rewired_Windows">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Rewired_Windows.dll</HintPath>
+    </Reference>
+    <Reference Include="Rewired_Windows_Functions">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Rewired_Windows_Functions.dll</HintPath>
+    </Reference>
+    <Reference Include="RIEditor">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\RIEditor.dll</HintPath>
+    </Reference>
+    <Reference Include="SecureStorage">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\SecureStorage.dll</HintPath>
+    </Reference>
+    <Reference Include="SecureStorage.Unity">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\SecureStorage.Unity.dll</HintPath>
+    </Reference>
+    <Reference Include="SerializableDictionaries">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\SerializableDictionaries.dll</HintPath>
+    </Reference>
+    <Reference Include="SimpleTooltip">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\SimpleTooltip.dll</HintPath>
+    </Reference>
+    <Reference Include="SoftMask">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\SoftMask.dll</HintPath>
+    </Reference>
+    <Reference Include="Stomp">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Stomp.dll</HintPath>
+    </Reference>
+    <Reference Include="StompyRobot.SRDebugger">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\StompyRobot.SRDebugger.dll</HintPath>
+    </Reference>
+    <Reference Include="StompyRobot.SRF">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\StompyRobot.SRF.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
+    <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -180,6 +436,15 @@
     <Reference Include="System.Data" />
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Xml" />
+    <Reference Include="Technie.PhysicsCreator">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Technie.PhysicsCreator.dll</HintPath>
+    </Reference>
+    <Reference Include="ToonyColorsPro.Runtime">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\ToonyColorsPro.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="UniTask">
+      <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\UniTask.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.Addressables">
       <HintPath>D:\Steam\steamapps\common\1v1.LOL\1v1_LOL_Data\Managed\Unity.Addressables.dll</HintPath>
     </Reference>
